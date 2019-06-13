@@ -4,6 +4,7 @@ THIS IS A SIMPLE ATM SYSTEM IN PYTHON
 
 python program to simulate ATM transactions
 file name: sampleatm.py
+Testing tool: Testlink
 
 The Program has 4 options: Balance, Deposit, Withdrawal, Quit.
 1. Balance should display remaining balance
